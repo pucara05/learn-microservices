@@ -1,0 +1,18 @@
+{
+  "name": "microservicio1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Cardenas",
+  "license": "ISC",
+  "description": "Microservicio 1 de ejemplo usando express",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
+
